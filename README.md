@@ -1,3 +1,3 @@
 # CardWithAnimations
 UI Sample
-![Sample](/master/sample.gif?raw=true "UI in action")
+![Sample](https://github.com/RT-Git/CardWithAnimations/raw/master/sample.gif?raw=true "UI in action")
